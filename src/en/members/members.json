@@ -1,4 +1,4 @@
 {
-  "permalink": "/{{ membersURL }}/{{ page.fileSlug }}/index.html",
+  "permalink": "/{{ page.filePathStem }}/index.html",
   "tags": "members"
 }

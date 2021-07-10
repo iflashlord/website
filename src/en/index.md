@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.liquid
 permalink: "/{{ locale }}/index.html"
+key: homepage
 
 title: Fronteers
 ---

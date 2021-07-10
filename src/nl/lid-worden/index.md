@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.liquid
-title: Become a member!
+title: Lid worden
 header_navigation_top: true
 order: "30"
 permalink: "/{{ locale }}/{{ page.fileSlug }}/index.html"

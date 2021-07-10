@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.liquid
-title: Sprekers
+title: Speakers
 order: "20" 
 
 key: speakers

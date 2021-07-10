@@ -7,6 +7,6 @@ order: "100"
 permalink: "/{{ locale }}/congres/index.html"
 key: conference
 
-title: Congres
+title: Conference
 ---
 Allerlei informatie over ons congres
